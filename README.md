@@ -52,7 +52,7 @@ Using VLANs helps isolate departments and control communication more effectively
 
 ---
 
-# Network Components Used(/project 1 .png)
+# [Network Components Used(/project 1 .png)]
 
 The network consists of:
 
