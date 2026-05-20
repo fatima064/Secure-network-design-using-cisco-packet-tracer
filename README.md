@@ -138,7 +138,7 @@ Assigned IP addresses manually to all PCs.
 
 
 ## Step 7: Connectivity Testing
-![Final Output](/https://github.com/fatima064/Secure-network-design-using-cisco-packet-tracer/blob/main/final%20.png?raw=true)
+![Final Output]( /final .png)
 
 Connectivity between devices was tested using ping commands in the command prompt.
 
