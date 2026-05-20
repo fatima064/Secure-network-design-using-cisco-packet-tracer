@@ -52,7 +52,8 @@ Using VLANs helps isolate departments and control communication more effectively
 
 ---
 
-# [Network Components Used(/project 1 .png)]
+# Network Components Used
+![Network Components](pic1.png)
 
 The network consists of:
 
@@ -72,6 +73,7 @@ The network consists of:
 ---
 
 # Working of the Project
+![showing connectivity of the network](pic2.png)
 
 The project works by dividing the network into separate VLANs. Devices inside the same VLAN can communicate directly, while communication between different VLANs is managed through router configuration.
 
@@ -101,16 +103,8 @@ Created two VLANs:
 
 ---
 
-## Step 3: Assigning Ports to VLANs
-
-Switch ports were assigned to specific VLANs:
-
-* Fa0/1 and Fa0/2 assigned to VLAN 10
-* Fa0/3 and Fa0/4 assigned to VLAN 20
-
----
-
-## Step 4: Router Configuration
+## Step 3: Router Configuration
+![Router Configuring commands ](router.png)
 
 Configured router interfaces and enabled inter-VLAN communication using sub-interfaces.
 
@@ -118,6 +112,16 @@ Router configuration:
 
 * 192.168.10.1 for VLAN 10
 * 192.168.20.1 for VLAN 20
+
+---
+
+## Step 4: Assigning Ports to VLANs
+![VLANs Commands](switch.png)
+
+Switch ports were assigned to specific VLANs:
+
+* Fa0/1 and Fa0/2 assigned to VLAN 10
+* Fa0/3 and Fa0/4 assigned to VLAN 20
 
 ---
 
@@ -138,7 +142,7 @@ Assigned IP addresses manually to all PCs.
 
 
 ## Step 7: Connectivity Testing
-![Final Output]( /final .png)
+![Final Output](final.png)
 
 Connectivity between devices was tested using ping commands in the command prompt.
 
