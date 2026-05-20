@@ -137,7 +137,8 @@ Assigned IP addresses manually to all PCs.
 * PC3 → 192.168.20.3
 
 
-## Step 7: Connectivity Testing(final.png)
+## Step 7: Connectivity Testing
+![Final output](/final.png)
 
 Connectivity between devices was tested using ping commands in the command prompt.
 
