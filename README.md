@@ -138,7 +138,7 @@ Assigned IP addresses manually to all PCs.
 
 
 ## Step 7: Connectivity Testing
-![Final output](/final.png)
+![](/final.png)
 
 Connectivity between devices was tested using ping commands in the command prompt.
 
